@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611635621000",
+    "project_id": "boletodigital-db66b",
+    "storage_bucket": "boletodigital-db66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611635621000:android:146e50cff2478f0b8f033d",
+        "android_client_info": {
+          "package_name": "br.com.magnasistemas.boleto_digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611635621000-4ui5mvs88ukpvdh0jne8evvpgkpbsuqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhh8xlu7Ux8BP-L6md51t-fpHkNKuFMNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611635621000-4ui5mvs88ukpvdh0jne8evvpgkpbsuqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
